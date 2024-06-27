@@ -1,62 +1,3 @@
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-  }
-  h1, h3 {
-    color: #333;
-  }
-  p {
-    color: #555;
-  }
-  a {
-    text-decoration: none;
-  }
-  .contact-icons img {
-    margin: 0 5px;
-    transition: transform 0.2s;
-  }
-  .contact-icons img:hover {
-    transform: scale(1.1);
-  }
-  .skills img {
-    margin: 10px;
-    transition: transform 0.2s;
-  }
-  .skills img:hover {
-    transform: scale(1.1);
-  }
-  #proyectos {
-    margin: 50px 0;
-  }
-  .project-table {
-    width: 80%;
-    margin: 0 auto;
-    border-collapse: separate;
-    border-spacing: 20px;
-  }
-  .project-cell {
-    background: #fff;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    padding: 20px;
-    transition: transform 0.2s;
-  }
-  .project-cell:hover {
-    transform: translateY(-10px);
-  }
-  .project-cell img {
-    border-radius: 10px;
-  }
-  .project-cell a img {
-    margin-top: 10px;
-  }
-</style>
-<body>
-
 <h1 align="center">Hola 👋, soy Fernando Mallitaxi</h1>
 <h3 align="center">Un apasionado desarrollador de Ecuador</h3>
 
@@ -147,6 +88,3 @@
     </tr>
   </table>
 </div>
-
-</body>
-</html>
