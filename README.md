@@ -63,6 +63,7 @@
 <table align="left" >
 <tr border="none">
   <td width="25%" align="center">
+      <h6>Aplicacion Movile CINEFLIX</h6>
         <img width="100%" src="https://th.bing.com/th/id/OIG2.gWOBI5g3Hfp4kFpvYMpn?pid=ImgGn" alt="IMAGEN" />
         <a href="https://github.com/Ferchosos-Programmers/CINEFLIX_APP" target="blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
