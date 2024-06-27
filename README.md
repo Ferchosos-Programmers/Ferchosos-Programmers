@@ -19,16 +19,32 @@
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
 
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-        <img align="center" width=100% src="https://th.bing.com/th/id/OIG2.gWOBI5g3Hfp4kFpvYMpn?pid=ImgGn"   alt="IMAGEN" />
-    </p>
-    <p align="center">
-      <a href="https://github.com/Ferchosos-Programmers/CINEFLIX_APP" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-</tr>
-</table>
-  </div>
+  <table align="left" >
+    <tr border="none">
+      <td width="25%" align="center">
+          <p align="center">
+              <img align="center" width=100% src="https://th.bing.com/th/id/OIG2.gWOBI5g3Hfp4kFpvYMpn?pid=ImgGn"   alt="IMAGEN" />
+          </p>
+          <p align="center">
+            <a href="https://github.com/Ferchosos-Programmers/CINEFLIX_APP" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+          </p>       
+      </td>
+      <td width="25%" align="center">
+          <p align="center">
+              <img align="center" width=100% src="https://th.bing.com/th/id/OIG3.Lj2EPQ8qpmYmsjzQPIt3?w=1024&h=1024&rs=1&pid=ImgDetMain"   alt="IMAGEN" />
+          </p>
+          <p align="center">
+            <a href="https://github.com/Ferchosos-Programmers/Tienda-Online" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+          </p>       
+      </td>
+      <td width="25%" align="center">
+          <p align="center">
+              <img align="center" width=100% src="https://th.bing.com/th/id/OIG4.dUnWhgWriqM_VziM89tU?w=1024&h=1024&rs=1&pid=ImgDetMain"   alt="IMAGEN" />
+          </p>
+          <p align="center">
+            <a href="https://github.com/Ferchosos-Programmers/Biblioteca-Completa" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+          </p>       
+      </td>
+    </tr>
+  </table>
+</div>
