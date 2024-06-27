@@ -6,7 +6,11 @@
   🌱 Actualmente estoy aprendiendo <strong>Python - IA</strong><br><br>
   📫 Contacto: <strong>unsimpledev@gmail.com</strong><br>
 
-  <div class="contact-icons">
+  <div class="contact-icons display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: 20px 0;">
     <a href="https://github.com/Ferchosos-Programmers" target="blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" style="margin-right: 2%;" />
     </a>
