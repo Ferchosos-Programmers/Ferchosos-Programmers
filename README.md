@@ -2,8 +2,8 @@
 <h3 align="center">Un apasionado desarrollador de Ecuador</h3>
 
 <p align="center">
-  🎓 ESTUDIANTE DE DESARROLLO DE SOFTWARE<br><br><br>
-  🌱 Actualmente estoy aprendiendo <strong>Python - IA</strong><br><br><br>
+  🎓 ESTUDIANTE DE DESARROLLO DE SOFTWARE<br><br>
+  🌱 Actualmente estoy aprendiendo <strong>Python - IA</strong><br><br>
   📫 Contacto: <strong>unsimpledev@gmail.com</strong><br>
 
   <div class="contact-icons">
