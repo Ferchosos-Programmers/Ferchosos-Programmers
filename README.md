@@ -16,7 +16,7 @@
   </a>
 </p>
 <hr>
-<h3 align="center">Lenguajes de Programación:</h3>
+<h2 align="center">Lenguajes de Programación:</h2>
 <p class="skills" align="center" style="display: flex; justify-content: center; align-items: center;">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
@@ -58,11 +58,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
-
+<hr>
 <div id="proyectos">
-<h2>Algunos proyectos👨🏻‍💻</h2>
-
-
+<h2 align="center">Algunos proyectos👨🏻‍💻</h2>
 <table align="left" >
 <tr border="none">
   <td width="25%" align="center">
