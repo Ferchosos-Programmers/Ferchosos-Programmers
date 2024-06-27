@@ -6,19 +6,15 @@
   🌱 Actualmente estoy aprendiendo <strong>Python - IA</strong><br><br>
   📫 Contacto: <strong>unsimpledev@gmail.com</strong><br>
 
-  <div class="contact-icons display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-    margin: 20px 0;">
+ <div class="contact-icons" style="display: flex; justify-content: center; align-items: center; gap: 10px; margin: 20px 0;">
     <a href="https://github.com/Ferchosos-Programmers" target="blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" style="margin-right: 2%;" />
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
     </a>
     <a href="https://www.linkedin.com/in/fernando-mallitaxi-510868304/" target="blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev" style="margin-right: 2%;" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev" />
     </a>
     <a href="mailto:fernandomallitaxi0@gmail.com" target="blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev" style="margin-right: 2%;" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev" />
     </a>
   </div>
 </p>
