@@ -1,7 +1,8 @@
-
 <h1 align="center">Hola 👋, soy Fernando Mallitaxi</h1>
+<h3 align="center">Un apasionado desarrollador de Ecuador</h3>
+
 <p align="center">
-  <h3 align="center">Un apasionado desarrollador de Ecuador</h3>
+  
   🎓 ESTUDIANTE DE DESARROLLO DE SOFTWARE
     
   🌱 Actualmente estoy aprendiendo **Python - IA**
