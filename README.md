@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Fernando Mallitaxi - Portafolio</title>
 <style>
   body {
     font-family: Arial, sans-serif;
@@ -61,7 +55,6 @@
     margin-top: 10px;
   }
 </style>
-</head>
 <body>
 
 <h1 align="center">Hola 👋, soy Fernando Mallitaxi</h1>
