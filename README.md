@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev" style="pading-left:200px" />
   </a>
 </p>
-
+<hr>
 <h3 align="center">Lenguajes de Programación:</h3>
 <p class="skills" align="center" style="display: flex; justify-content: center; align-items: center;">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
