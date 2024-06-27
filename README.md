@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Fernando Mallitaxi</h1>
 <h3 align="center">Un apasionado desarrollador de Ecuador</h3>
 
-- 🌱 I’m currently learning **Python - IA**
+- 🌱 Actualmente estoy aprendiendo **Python - IA**
 
-- 👨‍💻 All of my projects are available at [https://ferchosos-programmers.github.io/PortafolioDigital/](https://ferchosos-programmers.github.io/PortafolioDigital/)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://ferchosos-programmers.github.io/PortafolioDigital/](https://ferchosos-programmers.github.io/PortafolioDigital/)
 
-- 📫 How to reach me **fernandomallitaxi0@gmail.com**
+- 📫 Como llegar a mi **fernandomallitaxi0@gmail.com**
 
 <h3 align="left">Contactate conmigo:</h3>
 <p align="left">
