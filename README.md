@@ -4,7 +4,9 @@
 <p align="center">
   🎓 ESTUDIANTE DE DESARROLLO DE SOFTWARE<br><br>
   🌱 Actualmente estoy aprendiendo <strong>Python - IA</strong><br><br>
-  📫 Contacto: <strong>unsimpledev@gmail.com</strong><br>
+  📧 Email: <strong>fernandomallitaxi0@gmail.com</strong><br>
+  📱 Linkedin: <strong>https://www.linkedin.com/in/fernando-mallitaxi-510868304/</strong><br>
+  
 
 <div class="contact-icons" style="display: flex; justify-content: center; align-items: center; gap: 10px; margin: 900px 0;">
   <a href="https://github.com/Ferchosos-Programmers" target="blank">
