@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev" style="pading-left:200px" />
   </a>
 </p>
-<hr>
+<!-- <hr> -->
 <h2 align="center">Lenguajes de Programación:</h2>
 <p class="skills" align="center" style="display: flex; justify-content: center; align-items: center;">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -58,7 +58,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
-<hr>
+<!-- <hr> -->
 <div id="proyectos">
 <h2 align="center">Algunos proyectos👨🏻‍💻</h2>
 <table align="left" >
