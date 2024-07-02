@@ -86,6 +86,13 @@
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
         </a>
       </td>
+        <td width="25%" align="center">
+        <h3>WALLET MASTER</h3>
+        <img width="100%" src="https://i.blogs.es/aaeeb9/apps-bancos/1366_521.jpg" alt="IMAGEN" />
+        <a href="https://github.com/Ferchosos-Programmers/WalletMaster" target="blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
